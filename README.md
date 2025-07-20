@@ -3,7 +3,7 @@ Converting minimap coordinates to real NPC positions in Level-5 games
 
 ## Tested Games
 
-- ✅ **Inazuma Eleven Go Light & Shadow** (Nintendo 3DS)
+- ✅ **Inazuma Eleven Go Light & Shadow**
 
 ### File Structure Expected
 
